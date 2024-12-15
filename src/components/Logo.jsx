@@ -2,7 +2,9 @@
 function Logo({ width = "100px" }) {
 
   return (
-  <div>Logo</div>
+  <div>
+    <img src="/favicon.png" alt=""  width="45px"/>
+  </div>
   )
 }
 
